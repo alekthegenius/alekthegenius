@@ -3,6 +3,7 @@
 ### Stats
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekthegenius&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekthegenius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Bio
 ---
