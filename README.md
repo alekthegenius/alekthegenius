@@ -15,10 +15,15 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 
 ### Projects
 ---
-[![Woof Card](https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Perky Card](https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Raspberry Pi Digital Camera Card](https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Raspberry-Pi-Digital-Camera&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tech Card](https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=tech&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alekthegenius/Woof">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/alekthegenius/Perky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/alekthegenius/Raspberry-Pi-Digital-Camera">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Raspberry-Pi-Digital-Camera&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/alekthegenius/tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=tech&theme=transparent&hide_border=true" />
+</a>
