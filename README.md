@@ -16,7 +16,7 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 ### Projects
 ---
 <a href="https://github.com/alekthegenius/Woof">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/alekthegenius/Perky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true" />
