@@ -10,27 +10,27 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 
 ### Stats
 ---
-[![Alek's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekthegenius&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekthegenius&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alek's GitHub stats](https://github-readme-stats-vercel-tdho.vercel.app/api?username=alekthegenius&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-vercel-tdho.vercel.app/api/top-langs/?username=alekthegenius&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 ---
 <a href="https://github.com/alekthegenius/Woof">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/alekthegenius/Perky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/alekthegenius/Raspberry-Pi-Digital-Camera">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=Raspberry-Pi-Digital-Camera&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Raspberry-Pi-Digital-Camera&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/alekthegenius/tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alekthegenius&repo=tech&theme=transparent&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=tech&theme=transparent&hide_border=true" />
 </a>
 
 ### Activity
 ---
-[![Alek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alekthegenius&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alek's wakatime stats](https://github-readme-stats-vercel-tdho.vercel.app/api/wakatime?username=@alekthegenius&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
