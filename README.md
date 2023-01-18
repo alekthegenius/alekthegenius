@@ -30,7 +30,7 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 
 ### Activity
 ---
-[![Alek's wakatime stats](https://github-readme-stats-vercel-tdho.vercel.app/api/wakatime?username=@alekthegenius&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
 
