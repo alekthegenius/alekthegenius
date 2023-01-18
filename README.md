@@ -29,5 +29,4 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 </a>
 
 ### Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alekthegenius/94adb49e-0006-48d5-bf43-a488186223f5.png" /></a>
