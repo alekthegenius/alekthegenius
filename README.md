@@ -29,5 +29,5 @@ In my spare time, I code in Python, work on project’s with my dad, and explore
 </a>
 
 ### Activity
----<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
