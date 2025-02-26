@@ -1,8 +1,4 @@
-## Hi I'm Alek Vasek
-### Account Views
----
-
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Falekthegenius&s=40&c=00ff00&bg=00000000&no=2&ff=digi)
+# Hi I'm Alek Vasek
 
 ### Bio
 ---
