@@ -1,23 +1,8 @@
 # Hi I'm Alek Vasek
 
-### Bio
+## Bio
 ---
 In my spare time, I code in Python, work on projects with my dad, and explore the world with my family. I love cross-country running and playing complicated Bach pieces on my classical guitar. I love the tranquil feel of fly fishing on a peaceful river in Colorado, and the sound of an elk, bugling from 50 yards away, in the middle of nowhere.
 
-### Projects
----
-<a href="https://github.com/alekthegenius/Woof">
-  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Woof&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/alekthegenius/Perky">
-  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Perky&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/alekthegenius/Raspberry-Pi-Digital-Camera">
-  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=Raspberry-Pi-Digital-Camera&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/alekthegenius/tech">
-  <img align="center" src="https://github-readme-stats-vercel-tdho.vercel.app/api/pin/?username=alekthegenius&repo=tech&theme=transparent&hide_border=true" />
-</a>
-
-### Activity
+## Activity
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@alekthegenius/94adb49e-0006-48d5-bf43-a488186223f5.png" /></a>
